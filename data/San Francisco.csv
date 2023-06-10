@@ -1,0 +1,1001 @@
+Case_Number,Offense_Code,Offense_Type,Arrest,Location,Officer_id,Officer_Name,Date
+SF665085,2,Vandalism,Yes,San Francisco,891,Edward Denton,2000
+SF958010,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF117151,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2001
+SF788381,3,Homicide,No,San Francisco,140,Charles Ortega,2000
+SF829497,5,Assault,No,San Francisco,216,Charles Pitts,2001
+SF378283,1,Larceny,Yes,San Francisco,140,Charles Ortega,2003
+SF762590,1,Larceny,No,San Francisco,216,Charles Pitts,2001
+SF966442,5,Assault,No,San Francisco,167,Adele Peters,2000
+SF366866,5,Assault,Yes,San Francisco,848,Joseph Costello,2003
+SF506514,4,Drug abuse,No,San Francisco,130,David Graham,2002
+SF147368,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2000
+SF566571,5,Assault,No,San Francisco,140,Charles Ortega,2004
+SF316023,1,Larceny,Yes,San Francisco,447,Sherell Reine,2003
+SF838326,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF883570,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2000
+SF792367,1,Larceny,No,San Francisco,167,Adele Peters,2000
+SF482697,2,Vandalism,No,San Francisco,167,Adele Peters,2004
+SF413953,1,Larceny,No,San Francisco,140,Charles Ortega,2004
+SF460825,2,Vandalism,No,San Francisco,291,Roy Romero,2002
+SF808501,3,Homicide,No,San Francisco,216,Charles Pitts,2002
+SF852108,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2000
+SF676364,1,Larceny,No,San Francisco,848,Joseph Costello,2000
+SF299842,2,Vandalism,Yes,San Francisco,291,Roy Romero,2002
+SF366193,1,Larceny,Yes,San Francisco,447,Sherell Reine,2003
+SF298980,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF422222,1,Larceny,No,San Francisco,848,Joseph Costello,2002
+SF132636,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2004
+SF618109,3,Homicide,No,San Francisco,130,David Graham,2001
+SF428010,1,Larceny,Yes,San Francisco,140,Charles Ortega,2004
+SF122406,3,Homicide,Yes,San Francisco,130,David Graham,2002
+SF317213,5,Assault,No,San Francisco,216,Charles Pitts,2004
+SF213287,1,Larceny,No,San Francisco,291,Roy Romero,2002
+SF762590,4,Drug abuse,No,San Francisco,130,David Graham,2002
+SF459110,3,Homicide,No,San Francisco,167,Adele Peters,2002
+SF697217,2,Vandalism,Yes,San Francisco,891,Edward Denton,2001
+SF521408,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2003
+SF973980,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF513339,1,Larceny,No,San Francisco,130,David Graham,2002
+SF797758,1,Larceny,Yes,San Francisco,167,Adele Peters,2003
+SF503050,5,Assault,No,San Francisco,167,Adele Peters,2001
+SF925975,5,Assault,Yes,San Francisco,140,Charles Ortega,2001
+SF164636,5,Assault,Yes,San Francisco,140,Charles Ortega,2003
+SF219711,5,Assault,No,San Francisco,140,Charles Ortega,2000
+SF629395,5,Assault,No,San Francisco,848,Joseph Costello,2003
+SF652834,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2001
+SF162087,1,Larceny,Yes,San Francisco,891,Edward Denton,2002
+SF815645,3,Homicide,Yes,San Francisco,891,Edward Denton,2001
+SF317957,3,Homicide,Yes,San Francisco,447,Sherell Reine,2000
+SF521688,1,Larceny,Yes,San Francisco,130,David Graham,2000
+SF239132,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF718470,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF576736,4,Drug abuse,Yes,San Francisco,848,Joseph Costello,2003
+SF854395,5,Assault,Yes,San Francisco,216,Charles Pitts,2003
+SF228348,5,Assault,Yes,San Francisco,216,Charles Pitts,2003
+SF153474,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF657631,1,Larceny,Yes,San Francisco,167,Adele Peters,2000
+SF671618,1,Larceny,No,San Francisco,130,David Graham,2000
+SF854395,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF376283,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF372555,1,Larceny,No,San Francisco,167,Adele Peters,2003
+SF566571,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2001
+SF392051,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2003
+SF239132,5,Assault,No,San Francisco,447,Sherell Reine,2002
+SF515294,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF468888,1,Larceny,Yes,San Francisco,848,Joseph Costello,2003
+SF515863,1,Larceny,Yes,San Francisco,447,Sherell Reine,2003
+SF687674,3,Homicide,No,San Francisco,447,Sherell Reine,2002
+SF705936,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2004
+SF177419,1,Larceny,No,San Francisco,291,Roy Romero,2000
+SF887788,2,Vandalism,No,San Francisco,130,David Graham,2001
+SF262711,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2000
+SF391614,5,Assault,Yes,San Francisco,891,Edward Denton,2001
+SF281562,5,Assault,Yes,San Francisco,130,David Graham,2000
+SF376070,1,Larceny,No,San Francisco,848,Joseph Costello,2003
+SF883862,2,Vandalism,Yes,San Francisco,167,Adele Peters,2001
+SF139762,3,Homicide,Yes,San Francisco,891,Edward Denton,2004
+SF300319,1,Larceny,No,San Francisco,848,Joseph Costello,2004
+SF781146,5,Assault,No,San Francisco,291,Roy Romero,2003
+SF708114,2,Vandalism,Yes,San Francisco,130,David Graham,2004
+SF870653,1,Larceny,No,San Francisco,167,Adele Peters,2000
+SF219711,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF910584,3,Homicide,No,San Francisco,291,Roy Romero,2004
+SF193085,3,Homicide,Yes,San Francisco,140,Charles Ortega,2000
+SF139407,5,Assault,Yes,San Francisco,447,Sherell Reine,2002
+SF511554,1,Larceny,Yes,San Francisco,891,Edward Denton,2003
+SF589685,2,Vandalism,Yes,San Francisco,130,David Graham,2004
+SF202347,2,Vandalism,No,San Francisco,216,Charles Pitts,2002
+SF625565,2,Vandalism,No,San Francisco,848,Joseph Costello,2003
+SF924771,1,Larceny,No,San Francisco,140,Charles Ortega,2001
+SF521089,2,Vandalism,No,San Francisco,140,Charles Ortega,2004
+SF777321,1,Larceny,Yes,San Francisco,291,Roy Romero,2000
+SF519634,5,Assault,Yes,San Francisco,216,Charles Pitts,2004
+SF276551,2,Vandalism,No,San Francisco,291,Roy Romero,2004
+SF919287,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2002
+SF788898,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2004
+SF459110,1,Larceny,No,San Francisco,848,Joseph Costello,2003
+SF216086,1,Larceny,Yes,San Francisco,447,Sherell Reine,2002
+SF914310,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF510385,1,Larceny,No,San Francisco,140,Charles Ortega,2003
+SF386929,1,Larceny,Yes,San Francisco,848,Joseph Costello,2002
+SF795232,3,Homicide,Yes,San Francisco,848,Joseph Costello,2001
+SF679938,4,Drug abuse,No,San Francisco,167,Adele Peters,2001
+SF737996,4,Drug abuse,No,San Francisco,140,Charles Ortega,2004
+SF643360,2,Vandalism,No,San Francisco,848,Joseph Costello,2002
+SF291729,1,Larceny,Yes,San Francisco,848,Joseph Costello,2002
+SF616465,1,Larceny,No,San Francisco,447,Sherell Reine,2003
+SF662182,4,Drug abuse,No,San Francisco,291,Roy Romero,2003
+SF298980,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2002
+SF571997,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2004
+SF939135,1,Larceny,Yes,San Francisco,216,Charles Pitts,2000
+SF287374,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2001
+SF836942,2,Vandalism,Yes,San Francisco,130,David Graham,2004
+SF295511,1,Larceny,No,San Francisco,891,Edward Denton,2000
+SF313924,2,Vandalism,No,San Francisco,130,David Graham,2003
+SF589685,5,Assault,No,San Francisco,848,Joseph Costello,2003
+SF299842,1,Larceny,No,San Francisco,891,Edward Denton,2000
+SF560305,2,Vandalism,No,San Francisco,140,Charles Ortega,2003
+SF467650,3,Homicide,Yes,San Francisco,167,Adele Peters,2003
+SF769740,1,Larceny,No,San Francisco,167,Adele Peters,2000
+SF922423,1,Larceny,Yes,San Francisco,848,Joseph Costello,2000
+SF443927,5,Assault,No,San Francisco,130,David Graham,2003
+SF558908,5,Assault,Yes,San Francisco,447,Sherell Reine,2002
+SF344347,5,Assault,No,San Francisco,848,Joseph Costello,2000
+SF998123,1,Larceny,Yes,San Francisco,167,Adele Peters,2000
+SF491052,1,Larceny,Yes,San Francisco,447,Sherell Reine,2002
+SF378283,1,Larceny,Yes,San Francisco,891,Edward Denton,2001
+SF193889,4,Drug abuse,No,San Francisco,891,Edward Denton,2001
+SF597402,1,Larceny,Yes,San Francisco,848,Joseph Costello,2002
+SF308301,1,Larceny,Yes,San Francisco,848,Joseph Costello,2000
+SF461730,1,Larceny,No,San Francisco,291,Roy Romero,2002
+SF204223,4,Drug abuse,Yes,San Francisco,130,David Graham,2001
+SF401174,1,Larceny,Yes,San Francisco,891,Edward Denton,2000
+SF722734,5,Assault,Yes,San Francisco,140,Charles Ortega,2004
+SF308312,1,Larceny,No,San Francisco,291,Roy Romero,2001
+SF285718,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF139762,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF512571,5,Assault,No,San Francisco,140,Charles Ortega,2004
+SF887788,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF622473,3,Homicide,No,San Francisco,891,Edward Denton,2001
+SF111063,1,Larceny,Yes,San Francisco,140,Charles Ortega,2004
+SF403258,1,Larceny,Yes,San Francisco,167,Adele Peters,2003
+SF108697,2,Vandalism,Yes,San Francisco,130,David Graham,2004
+SF725950,2,Vandalism,No,San Francisco,891,Edward Denton,2000
+SF542388,1,Larceny,No,San Francisco,891,Edward Denton,2004
+SF603726,1,Larceny,No,San Francisco,140,Charles Ortega,2003
+SF496715,4,Drug abuse,No,San Francisco,140,Charles Ortega,2003
+SF749560,1,Larceny,No,San Francisco,216,Charles Pitts,2003
+SF552920,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2001
+SF697614,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF578397,1,Larceny,No,San Francisco,130,David Graham,2001
+SF692021,5,Assault,Yes,San Francisco,167,Adele Peters,2001
+SF957846,1,Larceny,No,San Francisco,216,Charles Pitts,2001
+SF532182,1,Larceny,No,San Francisco,130,David Graham,2000
+SF898130,3,Homicide,No,San Francisco,167,Adele Peters,2002
+SF724945,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF625565,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2004
+SF308301,5,Assault,No,San Francisco,447,Sherell Reine,2000
+SF300319,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF279498,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2001
+SF412359,1,Larceny,No,San Francisco,130,David Graham,2003
+SF202347,1,Larceny,Yes,San Francisco,130,David Graham,2003
+SF427181,1,Larceny,No,San Francisco,447,Sherell Reine,2000
+SF742136,1,Larceny,Yes,San Francisco,167,Adele Peters,2004
+SF321937,4,Drug abuse,Yes,San Francisco,848,Joseph Costello,2002
+SF413953,5,Assault,Yes,San Francisco,130,David Graham,2002
+SF657989,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2003
+SF499077,5,Assault,Yes,San Francisco,291,Roy Romero,2002
+SF353050,5,Assault,Yes,San Francisco,848,Joseph Costello,2004
+SF950779,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF537588,4,Drug abuse,No,San Francisco,891,Edward Denton,2004
+SF359787,3,Homicide,Yes,San Francisco,167,Adele Peters,2003
+SF854457,1,Larceny,No,San Francisco,140,Charles Ortega,2004
+SF816127,2,Vandalism,No,San Francisco,130,David Graham,2000
+SF662182,4,Drug abuse,No,San Francisco,891,Edward Denton,2000
+SF548241,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2001
+SF603726,1,Larceny,Yes,San Francisco,130,David Graham,2002
+SF961904,1,Larceny,No,San Francisco,167,Adele Peters,2001
+SF676091,2,Vandalism,No,San Francisco,167,Adele Peters,2000
+SF281562,2,Vandalism,No,San Francisco,130,David Graham,2004
+SF736886,1,Larceny,Yes,San Francisco,848,Joseph Costello,2003
+SF250701,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2001
+SF301165,5,Assault,Yes,San Francisco,167,Adele Peters,2001
+SF466358,3,Homicide,No,San Francisco,447,Sherell Reine,2002
+SF736301,1,Larceny,Yes,San Francisco,891,Edward Denton,2003
+SF717790,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2004
+SF750079,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2004
+SF512995,1,Larceny,Yes,San Francisco,447,Sherell Reine,2004
+SF538367,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2003
+SF442853,1,Larceny,No,San Francisco,140,Charles Ortega,2002
+SF491763,5,Assault,No,San Francisco,140,Charles Ortega,2003
+SF887998,1,Larceny,No,San Francisco,167,Adele Peters,2003
+SF907618,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF438748,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2001
+SF176797,3,Homicide,Yes,San Francisco,130,David Graham,2004
+SF459110,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF373055,2,Vandalism,No,San Francisco,848,Joseph Costello,2002
+SF124689,2,Vandalism,Yes,San Francisco,167,Adele Peters,2003
+SF831012,4,Drug abuse,No,San Francisco,848,Joseph Costello,2004
+SF404344,4,Drug abuse,No,San Francisco,216,Charles Pitts,2000
+SF442984,2,Vandalism,Yes,San Francisco,167,Adele Peters,2001
+SF505734,4,Drug abuse,Yes,San Francisco,130,David Graham,2003
+SF815982,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2001
+SF907447,2,Vandalism,No,San Francisco,140,Charles Ortega,2004
+SF579142,2,Vandalism,Yes,San Francisco,891,Edward Denton,2003
+SF878798,2,Vandalism,No,San Francisco,167,Adele Peters,2001
+SF512571,5,Assault,No,San Francisco,140,Charles Ortega,2001
+SF978677,4,Drug abuse,No,San Francisco,216,Charles Pitts,2003
+SF939135,5,Assault,No,San Francisco,216,Charles Pitts,2001
+SF618109,2,Vandalism,No,San Francisco,167,Adele Peters,2000
+SF337832,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF316023,2,Vandalism,Yes,San Francisco,291,Roy Romero,2003
+SF937738,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF491052,1,Larceny,Yes,San Francisco,130,David Graham,2002
+SF879456,5,Assault,Yes,San Francisco,291,Roy Romero,2000
+SF548241,1,Larceny,Yes,San Francisco,167,Adele Peters,2001
+SF757980,3,Homicide,Yes,San Francisco,140,Charles Ortega,2002
+SF273614,4,Drug abuse,No,San Francisco,291,Roy Romero,2001
+SF959250,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2004
+SF537588,4,Drug abuse,No,San Francisco,167,Adele Peters,2004
+SF615643,1,Larceny,No,San Francisco,848,Joseph Costello,2001
+SF737966,2,Vandalism,No,San Francisco,447,Sherell Reine,2000
+SF724932,4,Drug abuse,No,San Francisco,140,Charles Ortega,2000
+SF143357,4,Drug abuse,No,San Francisco,891,Edward Denton,2000
+SF713656,2,Vandalism,Yes,San Francisco,891,Edward Denton,2002
+SF620308,2,Vandalism,No,San Francisco,216,Charles Pitts,2002
+SF744879,1,Larceny,No,San Francisco,891,Edward Denton,2001
+SF394059,1,Larceny,Yes,San Francisco,216,Charles Pitts,2000
+SF773298,1,Larceny,Yes,San Francisco,140,Charles Ortega,2003
+SF685472,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2003
+SF956310,5,Assault,Yes,San Francisco,140,Charles Ortega,2004
+SF809057,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF694134,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2001
+SF606316,4,Drug abuse,No,San Francisco,291,Roy Romero,2002
+SF825393,1,Larceny,No,San Francisco,291,Roy Romero,2004
+SF336131,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF177321,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF547372,3,Homicide,No,San Francisco,167,Adele Peters,2003
+SF720834,2,Vandalism,Yes,San Francisco,130,David Graham,2001
+SF943172,2,Vandalism,No,San Francisco,447,Sherell Reine,2003
+SF166999,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2004
+SF599424,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF754533,2,Vandalism,No,San Francisco,891,Edward Denton,2001
+SF178779,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF577250,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF273093,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2001
+SF443927,5,Assault,No,San Francisco,891,Edward Denton,2001
+SF558908,1,Larceny,No,San Francisco,291,Roy Romero,2000
+SF647817,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2003
+SF500585,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2003
+SF503805,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF338710,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF900338,1,Larceny,Yes,San Francisco,891,Edward Denton,2003
+SF104645,5,Assault,No,San Francisco,447,Sherell Reine,2002
+SF677385,4,Drug abuse,No,San Francisco,447,Sherell Reine,2001
+SF506094,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2004
+SF305986,2,Vandalism,No,San Francisco,891,Edward Denton,2001
+SF388176,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2001
+SF863301,5,Assault,Yes,San Francisco,167,Adele Peters,2001
+SF336131,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF355245,3,Homicide,No,San Francisco,130,David Graham,2001
+SF736902,1,Larceny,Yes,San Francisco,447,Sherell Reine,2001
+SF769658,4,Drug abuse,No,San Francisco,140,Charles Ortega,2002
+SF462844,3,Homicide,No,San Francisco,447,Sherell Reine,2003
+SF536442,2,Vandalism,Yes,San Francisco,291,Roy Romero,2000
+SF483129,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF480932,1,Larceny,Yes,San Francisco,848,Joseph Costello,2003
+SF588790,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2000
+SF513339,1,Larceny,No,San Francisco,140,Charles Ortega,2003
+SF516799,1,Larceny,No,San Francisco,140,Charles Ortega,2001
+SF475714,4,Drug abuse,No,San Francisco,848,Joseph Costello,2003
+SF815982,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF247137,5,Assault,Yes,San Francisco,447,Sherell Reine,2003
+SF918364,5,Assault,Yes,San Francisco,291,Roy Romero,2000
+SF350488,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2000
+SF221857,1,Larceny,Yes,San Francisco,216,Charles Pitts,2001
+SF920558,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF386929,2,Vandalism,No,San Francisco,848,Joseph Costello,2004
+SF521089,4,Drug abuse,Yes,San Francisco,130,David Graham,2002
+SF752633,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF399683,3,Homicide,No,San Francisco,291,Roy Romero,2003
+SF673037,1,Larceny,Yes,San Francisco,291,Roy Romero,2004
+SF500585,4,Drug abuse,Yes,San Francisco,130,David Graham,2003
+SF959250,1,Larceny,Yes,San Francisco,216,Charles Pitts,2000
+SF802591,1,Larceny,Yes,San Francisco,140,Charles Ortega,2003
+SF750079,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2002
+SF744879,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2004
+SF908280,2,Vandalism,No,San Francisco,167,Adele Peters,2003
+SF737966,1,Larceny,Yes,San Francisco,130,David Graham,2003
+SF742199,1,Larceny,No,San Francisco,130,David Graham,2001
+SF341809,1,Larceny,Yes,San Francisco,891,Edward Denton,2002
+SF584943,5,Assault,Yes,San Francisco,848,Joseph Costello,2001
+SF769740,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2000
+SF844656,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2004
+SF777218,2,Vandalism,No,San Francisco,891,Edward Denton,2002
+SF899231,1,Larceny,No,San Francisco,130,David Graham,2004
+SF166327,2,Vandalism,No,San Francisco,291,Roy Romero,2003
+SF211528,1,Larceny,No,San Francisco,130,David Graham,2001
+SF777971,1,Larceny,No,San Francisco,447,Sherell Reine,2004
+SF217640,5,Assault,No,San Francisco,447,Sherell Reine,2002
+SF750094,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2000
+SF777971,5,Assault,Yes,San Francisco,891,Edward Denton,2000
+SF878798,2,Vandalism,Yes,San Francisco,291,Roy Romero,2002
+SF273910,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2002
+SF959605,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2000
+SF560305,1,Larceny,Yes,San Francisco,891,Edward Denton,2003
+SF919287,1,Larceny,No,San Francisco,140,Charles Ortega,2002
+SF430911,1,Larceny,No,San Francisco,167,Adele Peters,2003
+SF667346,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF250366,1,Larceny,No,San Francisco,891,Edward Denton,2002
+SF825530,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2001
+SF307416,2,Vandalism,Yes,San Francisco,167,Adele Peters,2000
+SF300319,5,Assault,Yes,San Francisco,891,Edward Denton,2000
+SF673599,2,Vandalism,No,San Francisco,891,Edward Denton,2001
+SF706795,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF578397,1,Larceny,Yes,San Francisco,130,David Graham,2004
+SF276679,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2001
+SF491254,1,Larceny,Yes,San Francisco,167,Adele Peters,2002
+SF482852,4,Drug abuse,No,San Francisco,848,Joseph Costello,2002
+SF519117,4,Drug abuse,No,San Francisco,216,Charles Pitts,2003
+SF754533,5,Assault,Yes,San Francisco,140,Charles Ortega,2000
+SF356189,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2001
+SF348073,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF998123,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2000
+SF954230,5,Assault,Yes,San Francisco,891,Edward Denton,2002
+SF886667,1,Larceny,No,San Francisco,447,Sherell Reine,2004
+SF159607,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF969744,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2003
+SF506514,1,Larceny,No,San Francisco,447,Sherell Reine,2004
+SF970731,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF502479,2,Vandalism,No,San Francisco,291,Roy Romero,2003
+SF502479,4,Drug abuse,No,San Francisco,891,Edward Denton,2000
+SF160694,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2001
+SF880294,5,Assault,No,San Francisco,167,Adele Peters,2004
+SF973167,5,Assault,Yes,San Francisco,216,Charles Pitts,2001
+SF750079,2,Vandalism,No,San Francisco,216,Charles Pitts,2002
+SF815982,1,Larceny,No,San Francisco,130,David Graham,2001
+SF742136,1,Larceny,Yes,San Francisco,891,Edward Denton,2001
+SF396547,4,Drug abuse,No,San Francisco,291,Roy Romero,2003
+SF942227,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2003
+SF715237,1,Larceny,No,San Francisco,891,Edward Denton,2000
+SF262542,2,Vandalism,No,San Francisco,447,Sherell Reine,2000
+SF433396,2,Vandalism,Yes,San Francisco,167,Adele Peters,2002
+SF455677,2,Vandalism,No,San Francisco,167,Adele Peters,2003
+SF548241,5,Assault,Yes,San Francisco,167,Adele Peters,2000
+SF816127,2,Vandalism,No,San Francisco,891,Edward Denton,2000
+SF757980,2,Vandalism,No,San Francisco,130,David Graham,2004
+SF219291,5,Assault,No,San Francisco,216,Charles Pitts,2000
+SF848886,5,Assault,No,San Francisco,130,David Graham,2000
+SF679938,1,Larceny,No,San Francisco,167,Adele Peters,2001
+SF605650,1,Larceny,No,San Francisco,447,Sherell Reine,2000
+SF507759,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF769740,2,Vandalism,No,San Francisco,291,Roy Romero,2003
+SF687491,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2000
+SF433396,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF840598,1,Larceny,Yes,San Francisco,891,Edward Denton,2003
+SF288173,3,Homicide,Yes,San Francisco,140,Charles Ortega,2001
+SF730786,1,Larceny,Yes,San Francisco,447,Sherell Reine,2002
+SF640185,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2002
+SF372555,4,Drug abuse,No,San Francisco,848,Joseph Costello,2001
+SF673599,5,Assault,Yes,San Francisco,891,Edward Denton,2002
+SF351165,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF691982,4,Drug abuse,No,San Francisco,167,Adele Peters,2001
+SF886737,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2000
+SF338247,2,Vandalism,No,San Francisco,167,Adele Peters,2003
+SF885913,1,Larceny,Yes,San Francisco,167,Adele Peters,2002
+SF687491,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF101569,1,Larceny,No,San Francisco,167,Adele Peters,2001
+SF592173,1,Larceny,No,San Francisco,848,Joseph Costello,2000
+SF353050,5,Assault,Yes,San Francisco,140,Charles Ortega,2000
+SF454954,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF350431,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF840159,1,Larceny,No,San Francisco,167,Adele Peters,2001
+SF122345,3,Homicide,Yes,San Francisco,848,Joseph Costello,2003
+SF725950,1,Larceny,Yes,San Francisco,130,David Graham,2002
+SF918364,2,Vandalism,Yes,San Francisco,891,Edward Denton,2001
+SF198660,1,Larceny,No,San Francisco,167,Adele Peters,2001
+SF983016,1,Larceny,Yes,San Francisco,167,Adele Peters,2000
+SF143282,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF839785,3,Homicide,Yes,San Francisco,167,Adele Peters,2004
+SF584306,3,Homicide,No,San Francisco,216,Charles Pitts,2000
+SF900993,2,Vandalism,Yes,San Francisco,891,Edward Denton,2001
+SF255567,3,Homicide,No,San Francisco,216,Charles Pitts,2003
+SF820159,4,Drug abuse,No,San Francisco,848,Joseph Costello,2000
+SF801268,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF708114,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2004
+SF607091,1,Larceny,Yes,San Francisco,130,David Graham,2000
+SF318268,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF496715,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF527948,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2000
+SF676514,1,Larceny,Yes,San Francisco,140,Charles Ortega,2003
+SF521408,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2003
+SF480932,4,Drug abuse,No,San Francisco,140,Charles Ortega,2000
+SF489530,1,Larceny,Yes,San Francisco,447,Sherell Reine,2003
+SF139762,5,Assault,Yes,San Francisco,216,Charles Pitts,2003
+SF742507,5,Assault,No,San Francisco,140,Charles Ortega,2001
+SF300319,1,Larceny,Yes,San Francisco,167,Adele Peters,2001
+SF568581,2,Vandalism,No,San Francisco,167,Adele Peters,2001
+SF834641,2,Vandalism,No,San Francisco,848,Joseph Costello,2001
+SF778912,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF653476,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2004
+SF154469,3,Homicide,Yes,San Francisco,447,Sherell Reine,2000
+SF834641,1,Larceny,Yes,San Francisco,167,Adele Peters,2004
+SF273093,1,Larceny,Yes,San Francisco,130,David Graham,2004
+SF468622,1,Larceny,No,San Francisco,130,David Graham,2004
+SF605650,1,Larceny,No,San Francisco,447,Sherell Reine,2000
+SF686139,1,Larceny,No,San Francisco,291,Roy Romero,2000
+SF407516,3,Homicide,No,San Francisco,447,Sherell Reine,2000
+SF284632,1,Larceny,No,San Francisco,140,Charles Ortega,2002
+SF640684,1,Larceny,No,San Francisco,216,Charles Pitts,2001
+SF676514,5,Assault,Yes,San Francisco,848,Joseph Costello,2004
+SF187493,1,Larceny,No,San Francisco,891,Edward Denton,2001
+SF900429,5,Assault,Yes,San Francisco,291,Roy Romero,2002
+SF535264,5,Assault,Yes,San Francisco,216,Charles Pitts,2004
+SF718858,5,Assault,No,San Francisco,291,Roy Romero,2003
+SF353050,5,Assault,No,San Francisco,216,Charles Pitts,2004
+SF662182,3,Homicide,No,San Francisco,891,Edward Denton,2004
+SF514275,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF326154,4,Drug abuse,No,San Francisco,848,Joseph Costello,2004
+SF824336,5,Assault,No,San Francisco,291,Roy Romero,2003
+SF829497,1,Larceny,Yes,San Francisco,140,Charles Ortega,2003
+SF304475,5,Assault,No,San Francisco,891,Edward Denton,2002
+SF221857,2,Vandalism,No,San Francisco,891,Edward Denton,2004
+SF898130,1,Larceny,Yes,San Francisco,167,Adele Peters,2003
+SF552920,3,Homicide,No,San Francisco,130,David Graham,2001
+SF143282,5,Assault,Yes,San Francisco,130,David Graham,2001
+SF300319,5,Assault,Yes,San Francisco,216,Charles Pitts,2001
+SF214289,1,Larceny,No,San Francisco,130,David Graham,2003
+SF817265,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF476652,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2001
+SF982074,1,Larceny,No,San Francisco,291,Roy Romero,2002
+SF461020,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF190514,4,Drug abuse,Yes,San Francisco,848,Joseph Costello,2003
+SF247137,2,Vandalism,No,San Francisco,447,Sherell Reine,2001
+SF176691,1,Larceny,No,San Francisco,291,Roy Romero,2004
+SF247137,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2002
+SF820685,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2002
+SF959250,4,Drug abuse,No,San Francisco,291,Roy Romero,2000
+SF825530,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2002
+SF166327,1,Larceny,No,San Francisco,140,Charles Ortega,2002
+SF177305,2,Vandalism,No,San Francisco,216,Charles Pitts,2000
+SF878798,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2003
+SF503050,4,Drug abuse,No,San Francisco,130,David Graham,2004
+SF918364,1,Larceny,Yes,San Francisco,130,David Graham,2004
+SF276551,1,Larceny,No,San Francisco,291,Roy Romero,2000
+SF461730,3,Homicide,No,San Francisco,291,Roy Romero,2004
+SF391614,1,Larceny,No,San Francisco,447,Sherell Reine,2003
+SF512995,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF869430,1,Larceny,No,San Francisco,891,Edward Denton,2001
+SF777971,2,Vandalism,No,San Francisco,848,Joseph Costello,2002
+SF860045,1,Larceny,No,San Francisco,848,Joseph Costello,2004
+SF302669,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2004
+SF320449,3,Homicide,No,San Francisco,848,Joseph Costello,2001
+SF464077,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF304475,1,Larceny,Yes,San Francisco,848,Joseph Costello,2003
+SF886667,2,Vandalism,Yes,San Francisco,130,David Graham,2001
+SF913982,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2003
+SF459110,1,Larceny,Yes,San Francisco,848,Joseph Costello,2002
+SF742199,2,Vandalism,No,San Francisco,891,Edward Denton,2003
+SF711823,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2002
+SF820741,2,Vandalism,Yes,San Francisco,167,Adele Peters,2003
+SF879517,4,Drug abuse,No,San Francisco,848,Joseph Costello,2001
+SF404344,5,Assault,No,San Francisco,130,David Graham,2002
+SF785202,3,Homicide,No,San Francisco,167,Adele Peters,2003
+SF318964,3,Homicide,Yes,San Francisco,140,Charles Ortega,2004
+SF147349,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF611215,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF895775,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF623397,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2001
+SF950779,5,Assault,Yes,San Francisco,140,Charles Ortega,2001
+SF957846,1,Larceny,Yes,San Francisco,291,Roy Romero,2004
+SF205814,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2004
+SF973980,1,Larceny,No,San Francisco,130,David Graham,2002
+SF795232,1,Larceny,No,San Francisco,891,Edward Denton,2002
+SF402670,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2000
+SF438748,4,Drug abuse,No,San Francisco,130,David Graham,2003
+SF448999,5,Assault,Yes,San Francisco,891,Edward Denton,2003
+SF764587,1,Larceny,Yes,San Francisco,447,Sherell Reine,2004
+SF238790,1,Larceny,No,San Francisco,891,Edward Denton,2004
+SF467650,4,Drug abuse,No,San Francisco,216,Charles Pitts,2000
+SF613174,4,Drug abuse,No,San Francisco,891,Edward Denton,2002
+SF531578,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF317413,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2002
+SF288808,1,Larceny,No,San Francisco,140,Charles Ortega,2004
+SF342952,5,Assault,No,San Francisco,891,Edward Denton,2001
+SF455969,4,Drug abuse,No,San Francisco,291,Roy Romero,2002
+SF211151,1,Larceny,Yes,San Francisco,130,David Graham,2003
+SF969744,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2003
+SF282538,3,Homicide,No,San Francisco,216,Charles Pitts,2002
+SF923152,1,Larceny,No,San Francisco,216,Charles Pitts,2003
+SF143601,2,Vandalism,No,San Francisco,130,David Graham,2002
+SF497128,3,Homicide,Yes,San Francisco,291,Roy Romero,2004
+SF281562,1,Larceny,Yes,San Francisco,891,Edward Denton,2002
+SF826402,3,Homicide,No,San Francisco,891,Edward Denton,2002
+SF940000,2,Vandalism,No,San Francisco,216,Charles Pitts,2001
+SF471253,3,Homicide,No,San Francisco,891,Edward Denton,2002
+SF469322,3,Homicide,Yes,San Francisco,447,Sherell Reine,2003
+SF969744,5,Assault,No,San Francisco,167,Adele Peters,2003
+SF802059,2,Vandalism,No,San Francisco,447,Sherell Reine,2004
+SF589685,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF415276,4,Drug abuse,Yes,San Francisco,130,David Graham,2004
+SF301165,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF205814,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF673050,5,Assault,Yes,San Francisco,447,Sherell Reine,2001
+SF879202,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF513339,1,Larceny,No,San Francisco,216,Charles Pitts,2004
+SF468942,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF691825,1,Larceny,Yes,San Francisco,447,Sherell Reine,2001
+SF350270,2,Vandalism,No,San Francisco,891,Edward Denton,2004
+SF117151,1,Larceny,Yes,San Francisco,291,Roy Romero,2000
+SF221857,1,Larceny,No,San Francisco,130,David Graham,2001
+SF656270,1,Larceny,No,San Francisco,291,Roy Romero,2004
+SF401696,3,Homicide,Yes,San Francisco,130,David Graham,2002
+SF268942,1,Larceny,No,San Francisco,891,Edward Denton,2001
+SF259914,1,Larceny,No,San Francisco,130,David Graham,2001
+SF357914,3,Homicide,Yes,San Francisco,130,David Graham,2000
+SF519117,3,Homicide,Yes,San Francisco,140,Charles Ortega,2004
+SF854457,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2003
+SF715237,1,Larceny,No,San Francisco,891,Edward Denton,2002
+SF809493,1,Larceny,No,San Francisco,167,Adele Peters,2003
+SF287374,2,Vandalism,Yes,San Francisco,891,Edward Denton,2003
+SF693405,1,Larceny,Yes,San Francisco,891,Edward Denton,2003
+SF430911,2,Vandalism,No,San Francisco,848,Joseph Costello,2002
+SF266679,5,Assault,No,San Francisco,848,Joseph Costello,2004
+SF198699,1,Larceny,No,San Francisco,891,Edward Denton,2000
+SF878691,5,Assault,No,San Francisco,167,Adele Peters,2000
+SF742507,2,Vandalism,No,San Francisco,291,Roy Romero,2003
+SF499077,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2001
+SF548886,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2004
+SF416175,4,Drug abuse,No,San Francisco,216,Charles Pitts,2002
+SF804443,2,Vandalism,Yes,San Francisco,291,Roy Romero,2002
+SF457643,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2004
+SF754836,5,Assault,Yes,San Francisco,291,Roy Romero,2001
+SF501654,5,Assault,No,San Francisco,140,Charles Ortega,2001
+SF261827,1,Larceny,No,San Francisco,848,Joseph Costello,2004
+SF752633,1,Larceny,No,San Francisco,140,Charles Ortega,2003
+SF488242,1,Larceny,Yes,San Francisco,140,Charles Ortega,2003
+SF783718,1,Larceny,No,San Francisco,140,Charles Ortega,2001
+SF746819,2,Vandalism,No,San Francisco,167,Adele Peters,2004
+SF419040,1,Larceny,No,San Francisco,291,Roy Romero,2004
+SF930862,3,Homicide,Yes,San Francisco,216,Charles Pitts,2001
+SF809116,4,Drug abuse,No,San Francisco,291,Roy Romero,2001
+SF520720,2,Vandalism,No,San Francisco,848,Joseph Costello,2003
+SF878798,2,Vandalism,No,San Francisco,130,David Graham,2001
+SF836942,5,Assault,Yes,San Francisco,848,Joseph Costello,2002
+SF497371,2,Vandalism,No,San Francisco,891,Edward Denton,2001
+SF355503,2,Vandalism,No,San Francisco,216,Charles Pitts,2001
+SF653476,1,Larceny,No,San Francisco,167,Adele Peters,2004
+SF576736,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2002
+SF899231,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2000
+SF693333,5,Assault,No,San Francisco,891,Edward Denton,2000
+SF455677,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF272323,1,Larceny,Yes,San Francisco,130,David Graham,2000
+SF333161,4,Drug abuse,No,San Francisco,447,Sherell Reine,2000
+SF595773,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2001
+SF895775,1,Larceny,No,San Francisco,216,Charles Pitts,2002
+SF913982,2,Vandalism,No,San Francisco,130,David Graham,2002
+SF693512,1,Larceny,No,San Francisco,848,Joseph Costello,2004
+SF471253,1,Larceny,No,San Francisco,130,David Graham,2001
+SF891761,4,Drug abuse,No,San Francisco,130,David Graham,2003
+SF838343,5,Assault,Yes,San Francisco,891,Edward Denton,2000
+SF440231,5,Assault,Yes,San Francisco,167,Adele Peters,2000
+SF350431,4,Drug abuse,No,San Francisco,891,Edward Denton,2001
+SF322826,1,Larceny,Yes,San Francisco,447,Sherell Reine,2002
+SF302669,4,Drug abuse,No,San Francisco,130,David Graham,2004
+SF254529,2,Vandalism,No,San Francisco,291,Roy Romero,2001
+SF611215,2,Vandalism,No,San Francisco,216,Charles Pitts,2004
+SF278510,1,Larceny,Yes,San Francisco,216,Charles Pitts,2001
+SF940000,5,Assault,Yes,San Francisco,447,Sherell Reine,2000
+SF385343,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF820904,3,Homicide,Yes,San Francisco,447,Sherell Reine,2002
+SF895775,4,Drug abuse,No,San Francisco,140,Charles Ortega,2004
+SF736301,4,Drug abuse,Yes,San Francisco,216,Charles Pitts,2004
+SF461020,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2002
+SF407516,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF694134,1,Larceny,Yes,San Francisco,130,David Graham,2004
+SF480580,3,Homicide,No,San Francisco,216,Charles Pitts,2003
+SF931957,3,Homicide,No,San Francisco,216,Charles Pitts,2001
+SF499077,3,Homicide,No,San Francisco,216,Charles Pitts,2001
+SF649915,4,Drug abuse,No,San Francisco,167,Adele Peters,2000
+SF907618,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2002
+SF603726,1,Larceny,Yes,San Francisco,167,Adele Peters,2004
+SF355245,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF303474,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF291729,5,Assault,Yes,San Francisco,167,Adele Peters,2004
+SF504672,1,Larceny,No,San Francisco,291,Roy Romero,2004
+SF750505,4,Drug abuse,No,San Francisco,291,Roy Romero,2002
+SF187354,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF327346,1,Larceny,No,San Francisco,848,Joseph Costello,2003
+SF652198,1,Larceny,No,San Francisco,167,Adele Peters,2003
+SF122085,5,Assault,Yes,San Francisco,447,Sherell Reine,2004
+SF301907,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF940000,5,Assault,No,San Francisco,848,Joseph Costello,2001
+SF290848,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2002
+SF143601,2,Vandalism,Yes,San Francisco,891,Edward Denton,2004
+SF970427,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF576736,2,Vandalism,No,San Francisco,291,Roy Romero,2001
+SF468607,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2000
+SF931957,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2002
+SF686516,5,Assault,Yes,San Francisco,891,Edward Denton,2001
+SF622159,4,Drug abuse,No,San Francisco,130,David Graham,2003
+SF958965,2,Vandalism,No,San Francisco,130,David Graham,2002
+SF750505,4,Drug abuse,Yes,San Francisco,848,Joseph Costello,2003
+SF449502,1,Larceny,No,San Francisco,130,David Graham,2002
+SF351165,1,Larceny,Yes,San Francisco,167,Adele Peters,2004
+SF430911,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2002
+SF515263,1,Larceny,No,San Francisco,891,Edward Denton,2000
+SF963726,5,Assault,Yes,San Francisco,891,Edward Denton,2004
+SF767677,1,Larceny,No,San Francisco,167,Adele Peters,2001
+SF831012,1,Larceny,Yes,San Francisco,447,Sherell Reine,2002
+SF899231,5,Assault,No,San Francisco,447,Sherell Reine,2002
+SF140418,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF549461,5,Assault,Yes,San Francisco,891,Edward Denton,2002
+SF158038,3,Homicide,No,San Francisco,848,Joseph Costello,2003
+SF262542,2,Vandalism,No,San Francisco,140,Charles Ortega,2000
+SF547372,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF169670,1,Larceny,No,San Francisco,848,Joseph Costello,2000
+SF333161,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2001
+SF930862,5,Assault,Yes,San Francisco,130,David Graham,2003
+SF143601,5,Assault,Yes,San Francisco,891,Edward Denton,2002
+SF809057,2,Vandalism,Yes,San Francisco,891,Edward Denton,2000
+SF415276,4,Drug abuse,No,San Francisco,140,Charles Ortega,2002
+SF878691,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF182115,4,Drug abuse,Yes,San Francisco,130,David Graham,2002
+SF471253,1,Larceny,No,San Francisco,140,Charles Ortega,2003
+SF596336,4,Drug abuse,No,San Francisco,167,Adele Peters,2000
+SF808027,2,Vandalism,No,San Francisco,130,David Graham,2004
+SF912392,4,Drug abuse,No,San Francisco,167,Adele Peters,2003
+SF213287,4,Drug abuse,No,San Francisco,216,Charles Pitts,2001
+SF812036,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF710369,1,Larceny,No,San Francisco,447,Sherell Reine,2000
+SF493353,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF459707,1,Larceny,No,San Francisco,891,Edward Denton,2002
+SF532819,1,Larceny,No,San Francisco,291,Roy Romero,2004
+SF804443,1,Larceny,No,San Francisco,891,Edward Denton,2001
+SF757980,1,Larceny,No,San Francisco,216,Charles Pitts,2003
+SF125746,1,Larceny,No,San Francisco,216,Charles Pitts,2001
+SF433016,4,Drug abuse,Yes,San Francisco,130,David Graham,2000
+SF695646,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF257802,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2000
+SF455677,1,Larceny,Yes,San Francisco,140,Charles Ortega,2004
+SF910735,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2002
+SF468622,3,Homicide,Yes,San Francisco,447,Sherell Reine,2000
+SF884150,4,Drug abuse,Yes,San Francisco,848,Joseph Costello,2004
+SF310644,1,Larceny,No,San Francisco,447,Sherell Reine,2000
+SF142238,4,Drug abuse,No,San Francisco,447,Sherell Reine,2002
+SF711823,5,Assault,Yes,San Francisco,140,Charles Ortega,2001
+SF199728,1,Larceny,Yes,San Francisco,167,Adele Peters,2002
+SF509071,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF918877,1,Larceny,No,San Francisco,167,Adele Peters,2000
+SF629395,1,Larceny,No,San Francisco,891,Edward Denton,2001
+SF843712,2,Vandalism,Yes,San Francisco,167,Adele Peters,2002
+SF915469,1,Larceny,No,San Francisco,140,Charles Ortega,2002
+SF918877,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF359813,2,Vandalism,No,San Francisco,291,Roy Romero,2000
+SF960462,1,Larceny,Yes,San Francisco,130,David Graham,2000
+SF869430,2,Vandalism,Yes,San Francisco,891,Edward Denton,2003
+SF510283,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2001
+SF407430,2,Vandalism,Yes,San Francisco,891,Edward Denton,2002
+SF468607,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF831012,1,Larceny,No,San Francisco,447,Sherell Reine,2004
+SF316503,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF799231,1,Larceny,No,San Francisco,130,David Graham,2001
+SF285718,1,Larceny,Yes,San Francisco,447,Sherell Reine,2003
+SF843712,1,Larceny,No,San Francisco,140,Charles Ortega,2001
+SF663190,1,Larceny,Yes,San Francisco,891,Edward Denton,2000
+SF527948,4,Drug abuse,No,San Francisco,848,Joseph Costello,2004
+SF552920,3,Homicide,Yes,San Francisco,291,Roy Romero,2004
+SF321937,2,Vandalism,No,San Francisco,291,Roy Romero,2002
+SF275349,5,Assault,No,San Francisco,848,Joseph Costello,2001
+SF797758,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF238790,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF214289,1,Larceny,Yes,San Francisco,216,Charles Pitts,2001
+SF958010,3,Homicide,Yes,San Francisco,140,Charles Ortega,2002
+SF885414,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF525691,1,Larceny,No,San Francisco,130,David Graham,2004
+SF686167,4,Drug abuse,No,San Francisco,848,Joseph Costello,2001
+SF109124,1,Larceny,Yes,San Francisco,447,Sherell Reine,2001
+SF840159,5,Assault,No,San Francisco,140,Charles Ortega,2003
+SF461020,1,Larceny,Yes,San Francisco,447,Sherell Reine,2004
+SF780056,1,Larceny,No,San Francisco,130,David Graham,2003
+SF296386,2,Vandalism,No,San Francisco,167,Adele Peters,2001
+SF366193,3,Homicide,Yes,San Francisco,216,Charles Pitts,2001
+SF626818,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2001
+SF633200,1,Larceny,No,San Francisco,848,Joseph Costello,2003
+SF448999,2,Vandalism,No,San Francisco,447,Sherell Reine,2002
+SF652650,1,Larceny,No,San Francisco,216,Charles Pitts,2004
+SF668346,3,Homicide,No,San Francisco,130,David Graham,2003
+SF143357,2,Vandalism,No,San Francisco,130,David Graham,2004
+SF159607,1,Larceny,No,San Francisco,291,Roy Romero,2002
+SF468607,4,Drug abuse,No,San Francisco,140,Charles Ortega,2001
+SF190763,5,Assault,Yes,San Francisco,848,Joseph Costello,2000
+SF725950,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF378283,1,Larceny,Yes,San Francisco,447,Sherell Reine,2002
+SF649915,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF774115,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2002
+SF607091,1,Larceny,No,San Francisco,216,Charles Pitts,2003
+SF895775,2,Vandalism,No,San Francisco,167,Adele Peters,2004
+SF889575,4,Drug abuse,No,San Francisco,891,Edward Denton,2003
+SF527948,2,Vandalism,No,San Francisco,291,Roy Romero,2002
+SF993941,5,Assault,No,San Francisco,140,Charles Ortega,2003
+SF375097,4,Drug abuse,No,San Francisco,140,Charles Ortega,2004
+SF176797,1,Larceny,Yes,San Francisco,447,Sherell Reine,2003
+SF860237,2,Vandalism,No,San Francisco,130,David Graham,2000
+SF177321,1,Larceny,No,San Francisco,216,Charles Pitts,2002
+SF255358,5,Assault,No,San Francisco,140,Charles Ortega,2000
+SF419040,3,Homicide,No,San Francisco,130,David Graham,2003
+SF166327,1,Larceny,Yes,San Francisco,891,Edward Denton,2001
+SF888726,4,Drug abuse,No,San Francisco,140,Charles Ortega,2003
+SF114681,2,Vandalism,No,San Francisco,291,Roy Romero,2000
+SF918364,1,Larceny,Yes,San Francisco,848,Joseph Costello,2004
+SF744879,3,Homicide,Yes,San Francisco,130,David Graham,2000
+SF566407,2,Vandalism,No,San Francisco,891,Edward Denton,2004
+SF576611,1,Larceny,Yes,San Francisco,216,Charles Pitts,2000
+SF982612,1,Larceny,Yes,San Francisco,167,Adele Peters,2004
+SF834852,1,Larceny,Yes,San Francisco,130,David Graham,2000
+SF221344,5,Assault,No,San Francisco,130,David Graham,2004
+SF761593,1,Larceny,Yes,San Francisco,167,Adele Peters,2002
+SF109124,5,Assault,No,San Francisco,447,Sherell Reine,2003
+SF788056,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF270637,5,Assault,No,San Francisco,848,Joseph Costello,2002
+SF696001,1,Larceny,No,San Francisco,167,Adele Peters,2003
+SF122345,1,Larceny,No,San Francisco,291,Roy Romero,2002
+SF461167,1,Larceny,No,San Francisco,140,Charles Ortega,2002
+SF815077,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF943887,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF637836,5,Assault,No,San Francisco,891,Edward Denton,2002
+SF558760,1,Larceny,No,San Francisco,891,Edward Denton,2000
+SF489330,5,Assault,No,San Francisco,848,Joseph Costello,2001
+SF544167,1,Larceny,No,San Francisco,848,Joseph Costello,2000
+SF792333,1,Larceny,No,San Francisco,167,Adele Peters,2004
+SF578791,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2004
+SF695646,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF548241,3,Homicide,Yes,San Francisco,291,Roy Romero,2002
+SF313924,4,Drug abuse,No,San Francisco,216,Charles Pitts,2003
+SF576611,3,Homicide,No,San Francisco,216,Charles Pitts,2004
+SF221857,2,Vandalism,Yes,San Francisco,291,Roy Romero,2000
+SF207548,1,Larceny,No,San Francisco,291,Roy Romero,2000
+SF535282,1,Larceny,Yes,San Francisco,891,Edward Denton,2000
+SF547372,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF919287,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF280247,1,Larceny,Yes,San Francisco,130,David Graham,2003
+SF880877,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF605650,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF523656,5,Assault,No,San Francisco,140,Charles Ortega,2001
+SF900993,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF705936,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF219711,2,Vandalism,Yes,San Francisco,130,David Graham,2001
+SF276551,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF526319,2,Vandalism,No,San Francisco,167,Adele Peters,2004
+SF476652,5,Assault,Yes,San Francisco,291,Roy Romero,2004
+SF604065,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2000
+SF767677,1,Larceny,Yes,San Francisco,216,Charles Pitts,2002
+SF391614,1,Larceny,Yes,San Francisco,447,Sherell Reine,2004
+SF355245,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF386929,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF742507,3,Homicide,No,San Francisco,291,Roy Romero,2002
+SF755700,3,Homicide,No,San Francisco,167,Adele Peters,2004
+SF689660,3,Homicide,Yes,San Francisco,216,Charles Pitts,2003
+SF652834,1,Larceny,Yes,San Francisco,291,Roy Romero,2004
+SF218017,1,Larceny,Yes,San Francisco,848,Joseph Costello,2004
+SF342952,1,Larceny,Yes,San Francisco,291,Roy Romero,2000
+SF259914,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2003
+SF752633,3,Homicide,No,San Francisco,447,Sherell Reine,2001
+SF693405,3,Homicide,Yes,San Francisco,891,Edward Denton,2000
+SF920558,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF760687,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2002
+SF117151,1,Larceny,Yes,San Francisco,167,Adele Peters,2004
+SF446992,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF385343,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2000
+SF239132,2,Vandalism,Yes,San Francisco,167,Adele Peters,2004
+SF825530,2,Vandalism,Yes,San Francisco,891,Edward Denton,2004
+SF303474,1,Larceny,Yes,San Francisco,891,Edward Denton,2002
+SF797343,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2001
+SF792367,1,Larceny,No,San Francisco,130,David Graham,2002
+SF317213,5,Assault,Yes,San Francisco,848,Joseph Costello,2004
+SF521408,4,Drug abuse,No,San Francisco,140,Charles Ortega,2000
+SF888726,1,Larceny,No,San Francisco,447,Sherell Reine,2003
+SF880877,1,Larceny,No,San Francisco,848,Joseph Costello,2001
+SF816876,1,Larceny,Yes,San Francisco,167,Adele Peters,2002
+SF204860,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF825530,1,Larceny,Yes,San Francisco,216,Charles Pitts,2001
+SF143357,3,Homicide,Yes,San Francisco,140,Charles Ortega,2003
+SF778912,1,Larceny,No,San Francisco,291,Roy Romero,2002
+SF549461,1,Larceny,No,San Francisco,447,Sherell Reine,2002
+SF884150,3,Homicide,No,San Francisco,130,David Graham,2002
+SF348073,2,Vandalism,Yes,San Francisco,891,Edward Denton,2000
+SF963343,1,Larceny,Yes,San Francisco,130,David Graham,2002
+SF883862,2,Vandalism,Yes,San Francisco,130,David Graham,2001
+SF469322,3,Homicide,No,San Francisco,848,Joseph Costello,2000
+SF893422,3,Homicide,No,San Francisco,216,Charles Pitts,2001
+SF122406,2,Vandalism,Yes,San Francisco,167,Adele Peters,2002
+SF430989,5,Assault,No,San Francisco,216,Charles Pitts,2002
+SF356189,1,Larceny,Yes,San Francisco,891,Edward Denton,2000
+SF769658,3,Homicide,No,San Francisco,130,David Graham,2000
+SF826402,1,Larceny,No,San Francisco,140,Charles Ortega,2001
+SF199728,1,Larceny,Yes,San Francisco,891,Edward Denton,2000
+SF459887,4,Drug abuse,Yes,San Francisco,130,David Graham,2000
+SF893422,5,Assault,No,San Francisco,291,Roy Romero,2002
+SF885414,1,Larceny,Yes,San Francisco,291,Roy Romero,2003
+SF459707,4,Drug abuse,Yes,San Francisco,130,David Graham,2004
+SF893422,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF689660,1,Larceny,No,San Francisco,216,Charles Pitts,2002
+SF941904,1,Larceny,Yes,San Francisco,130,David Graham,2001
+SF108625,4,Drug abuse,No,San Francisco,167,Adele Peters,2001
+SF644275,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF903650,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2001
+SF884153,5,Assault,Yes,San Francisco,447,Sherell Reine,2000
+SF443927,4,Drug abuse,Yes,San Francisco,130,David Graham,2002
+SF950779,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF939135,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2000
+SF742199,1,Larceny,No,San Francisco,291,Roy Romero,2003
+SF820685,5,Assault,Yes,San Francisco,130,David Graham,2002
+SF407516,1,Larceny,Yes,San Francisco,216,Charles Pitts,2003
+SF647435,1,Larceny,Yes,San Francisco,447,Sherell Reine,2001
+SF143601,1,Larceny,Yes,San Francisco,891,Edward Denton,2001
+SF455969,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2002
+SF545068,1,Larceny,No,San Francisco,848,Joseph Costello,2001
+SF366193,2,Vandalism,No,San Francisco,140,Charles Ortega,2002
+SF621879,1,Larceny,Yes,San Francisco,291,Roy Romero,2004
+SF767677,1,Larceny,No,San Francisco,848,Joseph Costello,2003
+SF567007,4,Drug abuse,No,San Francisco,291,Roy Romero,2003
+SF118464,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF357914,4,Drug abuse,No,San Francisco,167,Adele Peters,2004
+SF797758,1,Larceny,No,San Francisco,848,Joseph Costello,2002
+SF783748,1,Larceny,No,San Francisco,140,Charles Ortega,2003
+SF756381,3,Homicide,Yes,San Francisco,891,Edward Denton,2003
+SF214289,3,Homicide,No,San Francisco,891,Edward Denton,2003
+SF657378,1,Larceny,No,San Francisco,167,Adele Peters,2003
+SF335841,5,Assault,Yes,San Francisco,216,Charles Pitts,2000
+SF270637,1,Larceny,Yes,San Francisco,140,Charles Ortega,2003
+SF523656,3,Homicide,Yes,San Francisco,291,Roy Romero,2002
+SF706795,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2002
+SF691825,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF478624,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF419539,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF433016,1,Larceny,No,San Francisco,848,Joseph Costello,2000
+SF966442,1,Larceny,Yes,San Francisco,848,Joseph Costello,2004
+SF620501,2,Vandalism,No,San Francisco,130,David Graham,2002
+SF584306,1,Larceny,No,San Francisco,167,Adele Peters,2000
+SF488242,1,Larceny,Yes,San Francisco,140,Charles Ortega,2001
+SF302669,1,Larceny,Yes,San Francisco,891,Edward Denton,2002
+SF355245,1,Larceny,No,San Francisco,848,Joseph Costello,2003
+SF129458,1,Larceny,Yes,San Francisco,848,Joseph Costello,2000
+SF910584,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF520381,1,Larceny,Yes,San Francisco,291,Roy Romero,2002
+SF542001,2,Vandalism,No,San Francisco,216,Charles Pitts,2004
+SF719479,1,Larceny,Yes,San Francisco,167,Adele Peters,2000
+SF756381,4,Drug abuse,No,San Francisco,848,Joseph Costello,2001
+SF558760,2,Vandalism,No,San Francisco,167,Adele Peters,2003
+SF204223,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF752633,1,Larceny,Yes,San Francisco,167,Adele Peters,2002
+SF350431,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2001
+SF405180,1,Larceny,No,San Francisco,848,Joseph Costello,2003
+SF613174,5,Assault,No,San Francisco,140,Charles Ortega,2004
+SF269511,5,Assault,Yes,San Francisco,891,Edward Denton,2000
+SF558908,1,Larceny,No,San Francisco,447,Sherell Reine,2000
+SF897060,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF394059,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF348073,1,Larceny,Yes,San Francisco,291,Roy Romero,2004
+SF679938,5,Assault,Yes,San Francisco,167,Adele Peters,2003
+SF326354,1,Larceny,No,San Francisco,291,Roy Romero,2002
+SF529527,1,Larceny,Yes,San Francisco,291,Roy Romero,2001
+SF681073,1,Larceny,No,San Francisco,140,Charles Ortega,2002
+SF760687,3,Homicide,Yes,San Francisco,167,Adele Peters,2003
+SF676514,1,Larceny,Yes,San Francisco,216,Charles Pitts,2004
+SF355245,5,Assault,No,San Francisco,291,Roy Romero,2000
+SF313924,1,Larceny,Yes,San Francisco,848,Joseph Costello,2004
+SF278510,1,Larceny,No,San Francisco,291,Roy Romero,2000
+SF585185,2,Vandalism,Yes,San Francisco,291,Roy Romero,2001
+SF430911,5,Assault,Yes,San Francisco,140,Charles Ortega,2001
+SF629822,5,Assault,Yes,San Francisco,216,Charles Pitts,2000
+SF413953,4,Drug abuse,No,San Francisco,167,Adele Peters,2000
+SF983016,2,Vandalism,No,San Francisco,291,Roy Romero,2002
+SF923601,1,Larceny,No,San Francisco,848,Joseph Costello,2001
+SF635252,1,Larceny,Yes,San Francisco,848,Joseph Costello,2002
+SF512571,1,Larceny,No,San Francisco,216,Charles Pitts,2003
+SF219291,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2003
+SF455969,2,Vandalism,Yes,San Francisco,167,Adele Peters,2000
+SF274452,1,Larceny,No,San Francisco,291,Roy Romero,2000
+SF177321,5,Assault,Yes,San Francisco,447,Sherell Reine,2001
+SF142238,4,Drug abuse,Yes,San Francisco,140,Charles Ortega,2002
+SF132753,5,Assault,Yes,San Francisco,167,Adele Peters,2002
+SF316503,2,Vandalism,No,San Francisco,291,Roy Romero,2004
+SF489530,4,Drug abuse,Yes,San Francisco,167,Adele Peters,2004
+SF170989,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2002
+SF619877,5,Assault,Yes,San Francisco,167,Adele Peters,2002
+SF101569,5,Assault,No,San Francisco,291,Roy Romero,2002
+SF152962,5,Assault,Yes,San Francisco,130,David Graham,2004
+SF613174,2,Vandalism,No,San Francisco,130,David Graham,2002
+SF854457,2,Vandalism,No,San Francisco,447,Sherell Reine,2002
+SF937738,5,Assault,Yes,San Francisco,291,Roy Romero,2000
+SF162087,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2002
+SF544167,2,Vandalism,Yes,San Francisco,447,Sherell Reine,2001
+SF854457,2,Vandalism,Yes,San Francisco,140,Charles Ortega,2004
+SF939510,2,Vandalism,No,San Francisco,891,Edward Denton,2004
+SF585190,1,Larceny,Yes,San Francisco,447,Sherell Reine,2001
+SF132636,1,Larceny,Yes,San Francisco,848,Joseph Costello,2003
+SF273614,1,Larceny,Yes,San Francisco,447,Sherell Reine,2001
+SF840159,5,Assault,Yes,San Francisco,848,Joseph Costello,2004
+SF162104,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF626818,1,Larceny,Yes,San Francisco,167,Adele Peters,2000
+SF152962,5,Assault,No,San Francisco,130,David Graham,2001
+SF500585,5,Assault,Yes,San Francisco,130,David Graham,2004
+SF326154,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF362789,1,Larceny,No,San Francisco,848,Joseph Costello,2002
+SF491763,4,Drug abuse,No,San Francisco,447,Sherell Reine,2001
+SF973980,1,Larceny,No,San Francisco,130,David Graham,2002
+SF466358,1,Larceny,No,San Francisco,447,Sherell Reine,2004
+SF510283,1,Larceny,Yes,San Francisco,167,Adele Peters,2001
+SF840598,1,Larceny,Yes,San Francisco,130,David Graham,2003
+SF386929,4,Drug abuse,No,San Francisco,140,Charles Ortega,2004
+SF767677,1,Larceny,Yes,San Francisco,130,David Graham,2004
+SF620308,2,Vandalism,Yes,San Francisco,167,Adele Peters,2000
+SF125746,1,Larceny,Yes,San Francisco,216,Charles Pitts,2000
+SF883862,1,Larceny,No,San Francisco,130,David Graham,2003
+SF308312,1,Larceny,Yes,San Francisco,891,Edward Denton,2004
+SF724932,5,Assault,Yes,San Francisco,848,Joseph Costello,2004
+SF697614,1,Larceny,No,San Francisco,130,David Graham,2000
+SF656270,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2003
+SF754836,4,Drug abuse,Yes,San Francisco,291,Roy Romero,2003
+SF696001,1,Larceny,No,San Francisco,891,Edward Denton,2001
+SF946796,3,Homicide,No,San Francisco,216,Charles Pitts,2000
+SF732893,5,Assault,No,San Francisco,140,Charles Ortega,2000
+SF829497,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF809493,1,Larceny,No,San Francisco,167,Adele Peters,2001
+SF399683,4,Drug abuse,Yes,San Francisco,891,Edward Denton,2003
+SF359787,5,Assault,No,San Francisco,216,Charles Pitts,2000
+SF689660,2,Vandalism,No,San Francisco,848,Joseph Costello,2002
+SF941325,2,Vandalism,Yes,San Francisco,167,Adele Peters,2000
+SF365508,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF804443,5,Assault,No,San Francisco,130,David Graham,2001
+SF134738,5,Assault,Yes,San Francisco,130,David Graham,2001
+SF316023,1,Larceny,Yes,San Francisco,447,Sherell Reine,2000
+SF691982,5,Assault,Yes,San Francisco,140,Charles Ortega,2001
+SF817265,1,Larceny,No,San Francisco,891,Edward Denton,2003
+SF895459,1,Larceny,No,San Francisco,167,Adele Peters,2000
+SF162104,1,Larceny,Yes,San Francisco,447,Sherell Reine,2003
+SF860045,2,Vandalism,No,San Francisco,848,Joseph Costello,2003
+SF284632,1,Larceny,Yes,San Francisco,140,Charles Ortega,2002
+SF437489,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2000
+SF475714,5,Assault,Yes,San Francisco,291,Roy Romero,2001
+SF584306,4,Drug abuse,No,San Francisco,891,Edward Denton,2002
+SF311842,5,Assault,Yes,San Francisco,447,Sherell Reine,2003
+SF619877,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF433396,1,Larceny,Yes,San Francisco,291,Roy Romero,2001
+SF815982,5,Assault,No,San Francisco,848,Joseph Costello,2000
+SF453411,4,Drug abuse,No,San Francisco,130,David Graham,2003
+SF153474,1,Larceny,No,San Francisco,216,Charles Pitts,2001
+SF511903,2,Vandalism,Yes,San Francisco,848,Joseph Costello,2004
+SF750094,2,Vandalism,Yes,San Francisco,291,Roy Romero,2000
+SF107203,4,Drug abuse,No,San Francisco,216,Charles Pitts,2000
+SF668346,1,Larceny,No,San Francisco,216,Charles Pitts,2001
+SF565922,1,Larceny,No,San Francisco,130,David Graham,2003
+SF973890,1,Larceny,No,San Francisco,216,Charles Pitts,2004
+SF170989,2,Vandalism,Yes,San Francisco,891,Edward Denton,2001
+SF696001,1,Larceny,Yes,San Francisco,891,Edward Denton,2001
+SF777321,1,Larceny,No,San Francisco,216,Charles Pitts,2000
+SF393767,2,Vandalism,Yes,San Francisco,130,David Graham,2003
+SF620501,4,Drug abuse,Yes,San Francisco,848,Joseph Costello,2004
+SF560305,4,Drug abuse,No,San Francisco,291,Roy Romero,2002
+SF311842,1,Larceny,Yes,San Francisco,140,Charles Ortega,2004
+SF869430,3,Homicide,Yes,San Francisco,216,Charles Pitts,2000
+SF171240,2,Vandalism,No,San Francisco,130,David Graham,2002
+SF475714,1,Larceny,Yes,San Francisco,216,Charles Pitts,2001
+SF433396,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF907053,2,Vandalism,No,San Francisco,291,Roy Romero,2001
+SF848338,3,Homicide,No,San Francisco,291,Roy Romero,2003
+SF575315,5,Assault,No,San Francisco,140,Charles Ortega,2003
+SF211528,2,Vandalism,No,San Francisco,167,Adele Peters,2003
+SF301023,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2002
+SF519117,1,Larceny,No,San Francisco,447,Sherell Reine,2001
+SF404344,2,Vandalism,No,San Francisco,130,David Graham,2000
+SF515863,3,Homicide,Yes,San Francisco,291,Roy Romero,2004
+SF482852,5,Assault,No,San Francisco,447,Sherell Reine,2002
+SF317413,1,Larceny,No,San Francisco,130,David Graham,2002
+SF816127,1,Larceny,Yes,San Francisco,216,Charles Pitts,2002
+SF876220,1,Larceny,No,San Francisco,891,Edward Denton,2004
+SF963726,3,Homicide,Yes,San Francisco,216,Charles Pitts,2004
+SF885414,2,Vandalism,No,San Francisco,848,Joseph Costello,2003
+SF899231,2,Vandalism,Yes,San Francisco,216,Charles Pitts,2001
+SF691637,1,Larceny,No,San Francisco,140,Charles Ortega,2000
+SF398492,2,Vandalism,No,San Francisco,130,David Graham,2002
+SF937738,1,Larceny,Yes,San Francisco,848,Joseph Costello,2001
+SF954230,1,Larceny,Yes,San Francisco,130,David Graham,2003
+SF809351,1,Larceny,No,San Francisco,167,Adele Peters,2004
+SF615615,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF525691,1,Larceny,No,San Francisco,216,Charles Pitts,2001
+SF282538,1,Larceny,Yes,San Francisco,167,Adele Peters,2000
+SF621062,5,Assault,Yes,San Francisco,891,Edward Denton,2004
+SF840784,1,Larceny,No,San Francisco,891,Edward Denton,2000
+SF843712,4,Drug abuse,Yes,San Francisco,447,Sherell Reine,2000
+SF751880,1,Larceny,No,San Francisco,848,Joseph Costello,2000
+SF873679,3,Homicide,Yes,San Francisco,167,Adele Peters,2002
+SF207548,1,Larceny,Yes,San Francisco,891,Edward Denton,2001
+SF950779,2,Vandalism,Yes,San Francisco,167,Adele Peters,2001
+SF139407,2,Vandalism,No,San Francisco,447,Sherell Reine,2001
+SF511184,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF671901,1,Larceny,Yes,San Francisco,140,Charles Ortega,2000
+SF595773,1,Larceny,Yes,San Francisco,291,Roy Romero,2004
+SF673037,1,Larceny,No,San Francisco,891,Edward Denton,2001
